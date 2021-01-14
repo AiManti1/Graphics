@@ -1,2 +1,2 @@
-# Mantle
-C++ | OpenGL : Engine
+# Graphics 
+C++ | OpenGL : Practices
