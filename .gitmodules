@@ -1,0 +1,3 @@
+[submodule "Mantle/Extlib/glm"]
+	path = Mantle/Extlib/glm
+	url = https://github.com/g-truc/glm
